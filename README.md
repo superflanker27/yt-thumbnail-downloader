@@ -2,4 +2,4 @@ Downloads thumbnail from yt vid
 
 made in 3 minutes WR
 
-![Alt text]([URL-or-path-to-GIF](https://i.ibb.co/ycjcTWPY/untitled.gif))
+<img src="https://i.ibb.co/ycjcTWPY/untitled.gif" alt="My Animation" width="300"/>
