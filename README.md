@@ -1,4 +1,4 @@
 Downloads thumbnail from yt vid
 
-made in 2 minutes WR
+made in 26 seconds WR
 
